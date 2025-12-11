@@ -1,0 +1,80 @@
+{
+    "missing-hammer": "Нет молотка в левой руке.",
+    "missing-item": "Нет предмета/инструмента в левой руке.",
+    "missing-item-quantity": "Недостаточно предметов в левой руке.",
+    "wrong-item": "Неверный предмет/инструмент в левой руке.",
+    "missing-material": "Не хватает материалов для строительства.",
+    "invalid-frame": "Уклон слишком крутой для данного кровельного материала.",
+
+    "place-frame": "Построить каркас крыши",
+    "place-frame-standard": "Стандартный",
+    "place-frame-standard-left": "Стандартный Левый",
+    "place-frame-standard-right": "Стандартный Правый",
+    "place-frame-eave": "Карниз",
+    "place-frame-eave-left": "Карниз Левый",
+    "place-frame-eave-right": "Карниз Правый",
+    "place-frame-ridge": "Конёк",
+
+    "place-frame-auto": "Авто",
+    "place-frame-back": "Назад",
+
+    "place-frame-adv-standard": "Ручная настройка",
+    "place-frame-adv-eave": "Ручная настройка",
+    "place-frame-adv-ridge": "Ручная настройка",
+
+    "place-frame-standard-none": "Нет",
+    "place-frame-standard-slope1-lower": "3x1 - Нижний",
+    "place-frame-standard-slope1-middle": "3x1 - Средний",
+    "place-frame-standard-slope1-upper": "3x1 - Верхний",
+
+    "place-frame-standard-slope2-lower": "2x1 - Нижний",
+    "place-frame-standard-slope2-upper": "2x1 - Верхний",
+
+    "place-frame-standard-slope3-middle": "1x1 - Средний",
+
+    "place-frame-standard-slope4-lower": "1x2 - Нижний",
+    "place-frame-standard-slope4-upper": "1x2 - Верхний",
+
+    "place-frame-standard-slope5-lower": "1x3 - Нижний",
+    "place-frame-standard-slope5-middle": "1x3 - Средний",
+    "place-frame-standard-slope5-upper": "1x3 - Верхний",
+
+    "place-frame-eave-slope1": "3x1",
+    "place-frame-eave-slope2": "2x1",
+    "place-frame-eave-slope3": "1x1",
+    "place-frame-eave-slope4": "1x2",
+    "place-frame-eave-slope5": "1x3",
+
+    "place-frame-ridge-slope1": "3x1",
+    "place-frame-ridge-slope2": "2x1",
+    "place-frame-ridge-slope3": "1x1",
+    "place-frame-ridge-slope4": "1x2",
+    "place-frame-ridge-slope5": "1x3",
+
+    "roof-corner-inner": "Внутренний",
+    "roof-corner-outer": "Внешний",
+
+    "add-fill": "Добавить базовый блок",
+
+    "craftinginfo-guide-title": "Мод VS Roofing: Руководство по созданию",
+    "craftinginfo-guide-text": "<strong>Мод VS Roofing: Руководство по созданию</strong><br>Крыши создаются в мире: сначала строится каркас, затем на него добавляется кровельный материал.<br><strong>Каркасы</strong><br>Можно построить два типа каркасов.<br><strong>Палки / Бамбук</strong><br> Эти каркасы для ранней игры строятся из палок или бамбуковых кольев <itemstack type=\"item\">stick|bamboostakes</itemstack>, удерживая в левой руке ресурсы для верёвки (волокна льна, рогоз, папирус) <itemstack type=\"item\">flaxfibers|cattailtops|papyrustops</itemstack>.<br><strong>Деревянный</strong><br>Этот каркас для поздней(ей) игры строится из досок <itemstack type=\"item\">plank-birch|plank-oak|plank-maple|plank-pine|plank-acacia|plank-kapok|plank-baldcypress|plank-larch|plank-redwood|plank-ebony|plank-walnut|plank-purpleheart|plank-aged</itemstack>, удерживая в левой руке молоток <itemstack type=\"item\">hammer-copper|hammer-tinbronze|hammer-bismuthbronze|hammer-blackbronze|hammer-gold|hammer-silver|hammer-iron|hammer-meteoriciron|hammer-steel</itemstack>.<br>Стройте каркас с помощью <hk>rightmouse</hk>. Вы также можете выбрать тип каркаса (Стандартный, Карниз, Конёк), нажав клавишу <hk>toolmodeselect</hk> (ToolModes).<br>Каркасы можно размещать горизонтально и вертикально для создания пологих и крутых скатов. Углы (внутренние и внешние) создаются комбинациями перпендикулярных крыш, размещённых спереди или сзади друг от друга.<br><br><strong>Материалы</strong><br>Чтобы добавить кровельный материал, держите нужный предмет/блок и нажмите <hk>rightmouse</hk>, удерживая <hk>shift</hk> и наводя на каркас.<br><font color=\"#C41E3A\">Для добавления некоторых материалов может потребоваться инструмент в левой руке.</font> <br>Некоторые рецепты крыш также могут требовать дополнительные ресурсы в инвентаре. Подробнее см. в <a href=\"handbook://vsroofing:craftinginfo-recipes\">Руководстве по рецептам</a>.<br><strong>Базовый блок</strong><br>Чтобы добавить базовый (заполняющий) блок, держите блок, поддающийся резке, и нажмите <hk>rightmouse</hk>, удерживая <hk>ctrl</hk>. Эти базовые блоки можно обрабатывать резцом.",
+
+    "craftinginfo-recipes-title": "Мод VS Roofing: Рецепты",
+    "craftinginfo-recipes-text": "<strong>Мод VS Roofing: Рецепты</strong><br>Шаги постройки для каждого типа крыши приведены ниже по порядку. Некоторые шаги требуют несколько материалов*.<br><strong>Солома</strong><br>- 4 x сухой травы или соломы <itemstack type=\"item\">drygrass|thatch</itemstack>.<br>Примечание: Поддерживает уклоны 1x1, 2x1, 3x1 и 1x2.<br><strong>Бамбук</strong><br>- 2 x связка бамбуковых кольев <itemstack type=\"item\">bamboostakes</itemstack>.<br><strong>Глиняная черепица</strong><br>- 1 x обожжённая глиняная черепица <itemstack type=\"item\">shingle-burned-black|shingle-burned-blue|shingle-burned-brown|shingle-burned-cream|shingle-burned-fire|shingle-burned-gray|shingle-burned-orange|shingle-burned-red|shingle-burned-tan</itemstack>. Левая рука: <itemstack type=\"item\">hammer-copper|hammer-tinbronze|hammer-bismuthbronze|hammer-blackbronze|hammer-gold|hammer-silver|hammer-iron|hammer-meteoriciron|hammer-steel</itemstack>.<br><strong>Стекло</strong><br>- 1 x стеклянный блок <itemstack type=\"block\">glass-quartz|glass-plain|glass-green|glass-blue|glass-violet|glass-red|glass-yellow|glass-brown|glass-vintage|glass-smoky|glass-pink</itemstack>. Левая рука: <itemstack type=\"item\">hammer-copper|hammer-tinbronze|hammer-bismuthbronze|hammer-blackbronze|hammer-gold|hammer-silver|hammer-iron|hammer-meteoriciron|hammer-steel</itemstack>.<br><strong>Сланец</strong><br>- 3 x камень-сланец <itemstack type=\"item\">stone-slate</itemstack> + 1 x глина <itemstack type=\"item\">clay-blue|clay-red|clay-fire</itemstack>. Левая рука: <itemstack type=\"item\">hammer-copper|hammer-tinbronze|hammer-bismuthbronze|hammer-blackbronze|hammer-gold|hammer-silver|hammer-iron|hammer-meteoriciron|hammer-steel</itemstack>.<br><strong>Медь</strong><br>- 1 x медная пластина <itemstack type=\"item\">metalplate-copper</itemstack>. Левая рука: <itemstack type=\"item\">hammer-copper|hammer-tinbronze|hammer-bismuthbronze|hammer-blackbronze|hammer-gold|hammer-silver|hammer-iron|hammer-meteoriciron|hammer-steel</itemstack>.<br><strong>Дерево (Простое)</strong><br>- 1 x доска <itemstack type=\"item\">plank-birch|plank-oak|plank-maple|plank-pine|plank-acacia|plank-kapok|plank-baldcypress|plank-larch|plank-redwood|plank-ebony|plank-walnut|plank-purpleheart|plank-aged</itemstack>. Левая рука: <itemstack type=\"item\">hammer-copper|hammer-tinbronze|hammer-bismuthbronze|hammer-blackbronze|hammer-gold|hammer-silver|hammer-iron|hammer-meteoriciron|hammer-steel</itemstack>.<br><strong>Дерево</strong><br>- 1 x доска <itemstack type=\"item\">plank-birch|plank-oak|plank-maple|plank-pine|plank-acacia|plank-kapok|plank-baldcypress|plank-larch|plank-redwood|plank-ebony|plank-walnut|plank-purpleheart|plank-aged</itemstack>. Левая рука: <itemstack type=\"item\">hammer-copper|hammer-tinbronze|hammer-bismuthbronze|hammer-blackbronze|hammer-gold|hammer-silver|hammer-iron|hammer-meteoriciron|hammer-steel</itemstack>.<br>- 4 x доски <itemstack type=\"item\">plank-birch|plank-oak|plank-maple|plank-pine|plank-acacia|plank-kapok|plank-baldcypress|plank-larch|plank-redwood|plank-ebony|plank-walnut|plank-purpleheart|plank-aged</itemstack>. Левая рука: <itemstack type=\"item\">hammer-copper|hammer-tinbronze|hammer-bismuthbronze|hammer-blackbronze|hammer-gold|hammer-silver|hammer-iron|hammer-meteoriciron|hammer-steel</itemstack>.<br><strong>Дёрн</strong><br>- 1 x доска <itemstack type=\"item\">plank-birch|plank-oak|plank-maple|plank-pine|plank-acacia|plank-kapok|plank-baldcypress|plank-larch|plank-redwood|plank-ebony|plank-walnut|plank-purpleheart|plank-aged</itemstack>. Левая рука: <itemstack type=\"item\">hammer-copper|hammer-tinbronze|hammer-bismuthbronze|hammer-blackbronze|hammer-gold|hammer-silver|hammer-iron|hammer-meteoriciron|hammer-steel</itemstack>.<br>- 1 x почва средней плодородности <itemstack type=\"block\">soil-medium-none|soil-medium-verysparse|soil-medium-sparse|soil-medium-normal</itemstack>.<br>- 1 x сухая трава <itemstack type=\"block\">drygrass</itemstack>.<br>Примечание: Поддерживает уклоны 1x1, 2x1 и 3x1.<br><br><i>* Если требуется несколько материалов, первый указанный материал является основным и должен находиться в руке (в активном слоте панели быстрого доступа).</i>",
+
+    "roof": "Крыша",
+    "frame": "Каркас",
+    "frame-stick": "Палки и Верёвка",
+    "frame-bamboo": "Бамбук",
+    "frame-plank": "Доски",
+    "roof-thatch": "Солома",
+    "roof-clayshingle": "Глиняная черепица",
+    "roof-wood-basic": "Доски (Простое)",
+    "roof-wood": "Деревянная черепица",
+    "roof-sod-bare": "Дёрн (Голый)",
+    "roof-sod": "Дёрн",
+    "roof-bamboo": "Бамбук",
+    "roof-glass": "Стекло",
+    "roof-slate": "Сланец",
+    "roof-copper": "Медь"
+}
