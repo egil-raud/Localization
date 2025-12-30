@@ -1,0 +1,11 @@
+{
+    "stirlingmotor:block-stirlingengineburner-*": "Двигатель Стирлинга",
+    "stirlingmotor:block-stirlingenginesucker-*": "Бак",
+    "stirlingmotor:block-stirlingenginerotor-*": "Ротор",
+    "stirlingmotor:item-engineparts-raw-chamber": "Бак двигателя Стирлинга (необж.)",
+    "stirlingmotor:item-engineparts-burned-chamber": "Бак двигателя Стирлинга",
+    "stirlingmotor:item-engineparts-raw-workpiston": "Малый поршень двигателя Стирлинга (необж.)",
+    "stirlingmotor:item-engineparts-burned-workpiston": "Малый поршень двигателя Стирлинга",
+    "stirlingmotor:item-engineparts-raw-displacerpiston": "Большой поршень двигателя Стирлинга (необж.)",
+    "stirlingmotor:item-engineparts-burned-displacerpiston": "Большой поршень двигателя Стирлинга"
+}
